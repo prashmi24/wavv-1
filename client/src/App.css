@@ -1,0 +1,34 @@
+::-webkit-scrollbar {
+  display: none;
+}
+/* Masonry grid styles */
+
+.masonry {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 columns for larger screens */
+  gap: 16px;
+}
+
+.masonry-sm {
+  grid-template-columns: repeat(2, 1fr); /* 2 columns for smaller screens */
+  gap: 16px;
+}
+
+/* Masonry items */
+.masonry-item {
+  break-inside: avoid;
+  margin-bottom: 16px;
+}
+
+/* Optional: Custom heights to create Pinterest-like masonry effect */
+.masonry-item img {
+  height: auto;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.masonry-item img:hover {
+  transform: scale(1.05); /* Adds a zoom effect on hover */
+}
