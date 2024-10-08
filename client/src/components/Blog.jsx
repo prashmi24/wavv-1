@@ -11,7 +11,7 @@ const blogPosts = [
     title: "Foodie's Guide to Global Cuisine",
     category: "Travel & Food",
     comments: 45,
-    views: "23k+",
+    views: "24k+",
   },
   {
     id: 2,
