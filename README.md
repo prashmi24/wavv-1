@@ -3,15 +3,11 @@ A modern travel booking website built with React.js and TailwindCSS. Wavv offers
 
 🔗 **Live Demo:** [Wavv on GitHub](https://github.com/prashmi24/wavv)
 
----
-
 ## 📦 Technologies Used  
 - **React.js** – Component-based UI framework  
 - **TailwindCSS** – Utility-first CSS framework for styling  
 - **Vite** – Fast build tool for frontend development  
 - **React Icons** – Beautiful icons used throughout the UI  
-
----
 
 ## 🦄 Features  
 Here's what you can do with Wavv:
@@ -21,15 +17,11 @@ Here's what you can do with Wavv:
 - **Responsive Design:** Optimized for different screen sizes to deliver a seamless experience on desktop and mobile.  
 - **Reviews and Ratings:** Leave feedback and rate packages to help other travelers.  
 
----
-
 ## 👨‍💻 The Process  
 The development process focused on creating a minimal and efficient travel booking experience:
 
 - **Design:** Designed the homepage layout using TailwindCSS for an aesthetic and consistent user interface.
 - **Responsiveness:** Ensured all pages adapt well to various screen sizes and devices.  
-
----
 
 ## 📚 What I Learned  
 This project enhanced my knowledge in the following areas:
@@ -38,16 +30,12 @@ This project enhanced my knowledge in the following areas:
 - **TailwindCSS:** Learned how to build scalable and beautiful UI components using utility classes.
 - **Responsive Design:** Developed skills to ensure smooth functionality across different devices.
 
----
-
 ## 💭 Potential Improvements  
 - **Payment Gateway:** Add online payment options to complete the booking process.  
 - **Advanced Filters:** Include sorting by price, duration, and popularity.  
 - **Social Logins:** Implement Google and Facebook login for faster authentication.  
 - **Dark Mode:** Add a toggle option for light and dark themes.  
 - **Admin Dashboard:** Introduce an admin portal for managing packages and bookings.  
-
----
 
 ## 🚦 Running the Project  
 Follow these steps to run the project locally:
@@ -66,8 +54,6 @@ Follow these steps to run the project locally:
    npm run dev
 
 4. **Open in Browser:**
-   Visit http://localhost:5173 (or the port shown in your terminal) to explore the app.
-
- 3. 
+Visit http://localhost:5173 (or the port shown in your terminal) to explore the app.
 
  
